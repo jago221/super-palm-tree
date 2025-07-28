@@ -1,0 +1,37 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My First GitHub Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #1877f2;
+    }
+    p {
+      font-size: 18px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      color: #fff;
+      background: #1877f2;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My GitHub Website 🎉</h1>
+  <p>This is a simple static site hosted with GitHub Pages.</p>
+  <a href="https://github.com" target="_blank">Go to GitHub</a>
+</body>
+</html>
